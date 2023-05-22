@@ -1,6 +1,7 @@
 # lao Fonts For Windows
-- [Phetsarath OT.ttf]()
-- [saysettha_ot.ttf]
+- [Phetsarath OT.ttf](https://github.com/maithaen/fonts/raw/main/Phetsarath%20OT.ttf)
+- [saysettha_ot.ttf](https://github.com/maithaen/fonts/raw/main/saysettha_ot.ttf)
+# OR
 ## Install Lao Fonts From PowerShell-Core (PowerShell 7) Script 
 ## Run PowerShell 7 By Administrator 
 ```bash
